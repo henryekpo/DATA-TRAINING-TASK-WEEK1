@@ -1,4 +1,8 @@
 # DATA-TRAINING-TASK-WEEK1
-![](TASK_1.png)
+![](table)
+
+
+
+
 
 
